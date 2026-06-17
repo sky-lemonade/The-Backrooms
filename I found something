@@ -906,13 +906,13 @@ a.current::after,
 
 #dashboard {
   background: #b8b361 !important;
-  border: 1px solid transparent !important;
-  border-top: 1px solid transparent !important;
-  border-bottom: 1px solid transparent !important;
-  border-radius: 25px !important;
+  border: none !important;
+  border-top: none !important;
+  border-bottom: none !important;
+  border-radius: none !important;
   box-shadow: none !important;
-  padding: 10px 15px !important;
-  margin-bottom: 20px !important;
+  padding: none !important;
+  margin-bottom: none !important;
   font-size: 0.9em;
   color: #fff !important;
 }
