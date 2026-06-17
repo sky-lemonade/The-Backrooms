@@ -994,7 +994,6 @@ dl.meta,
 dl.index dd,
 #ibox_wrapper,
 #ibox_content,
-textarea:focus,
 input:focus,
 select:focus {
   background-color: #b8b361;
