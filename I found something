@@ -650,7 +650,7 @@ img[src$="/images/skins/iconsets/default/category-multi.png"] {
 img[src$="/images/skins/iconsets/default/category-other.png"] {
   color: #0000001a;
   background: url("https://zerafinacss.github.io/ao3/icons/category-other-01.png"), 
-    #6e6e6e;
+    #fc0fc0;
 }
 
 .required-tags .warning-choosenotto,
