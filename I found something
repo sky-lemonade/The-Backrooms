@@ -879,7 +879,7 @@ ul.tags li.warnings:first-child:before {
 
 #workskin {
   text-align: justify;
-  background: #a1994f !important;
+  background: #b8b361 !important;
 }
 
 #main .navigation a.current::before,
@@ -996,7 +996,7 @@ dl.index dd,
 #ibox_content,
 input:focus,
 select:focus {
-  background-color: #a1994f;
+  background-color: #b8b361;
 }
 
 html body img[src$="/images/lockblue.png"] {
